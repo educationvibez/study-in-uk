@@ -16,6 +16,6 @@ This is a simple informational website built to provide guidance for Indian stud
 
 ## 🔗 Live Preview
 
-> Coming soon or host it via GitHub Pages
+> https://education-vibes.vercel.app/
 
 Feel free to fork, customize, or expand this basic version!
