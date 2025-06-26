@@ -1,5 +1,7 @@
 # Study in UK – Simple Website
 
+![Study in UK](./study-in-uk.png)
+
 This is a simple informational website built to provide guidance for Indian students interested in pursuing higher education in the UK. The website contains:
 
 * A short overview of studying in the UK
