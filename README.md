@@ -1,7 +1,3 @@
-Here's a **README description** you can use for your GitHub repository:
-
----
-
 # Study in UK – Simple Website
 
 This is a simple informational website built to provide guidance for Indian students interested in pursuing higher education in the UK. The website contains:
